@@ -1,4 +1,4 @@
-# hurricane-analysis
+# Hurricane Analysis
 This CodeAcademy project organises and manipulates data about Category 5 Hurricanes, the strongest hurricanes as rated by their wind speed. The projected occured as this:
 
 To begin, the damages list was updated to convert prefix values to floats and kept "Damages not Recorded".
